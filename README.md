@@ -1,3 +1,5 @@
+# General overview
+
 ## Introduction
 
 The projet **portfolio-hugo-starter** is thought as a starter theme to
@@ -26,8 +28,30 @@ pipeline?
  and styles to make the portfolio-starter work. The theme is also used
  to provide updates and bug fixes to the starter.
 
+# Development
+
+Contributions are welcome.
+
+## Install the project environment
+
+It is required to have the following softwares on your development
+environment:
+
+- Git
+- [Hugo](https://gohugo.io/)'s cli
+
+You can then install the project by cloning it:
+
+`git clone --recurse-submodules git@github.com:internet4000/portfolio-hugo-starter.git`
+
+
+This command also clones the git submodules, namely the
+ `portfolio-hugo-theme`. Its location is
+ `/portfolio-hugo-starter/themes`.
+
 
 ## Note for later:
 
 > the following command will effectively set a website’s title on
 Unix-like systems: `$ env HUGO_TITLE="Some Title" hugo`
+
