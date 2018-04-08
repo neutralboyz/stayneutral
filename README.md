@@ -99,7 +99,7 @@ future updates).
  and styles to make the portfolio-starter work. The theme is also used
  to provide updates and bug fixes to the starter.
  
-Read [Hugo's themecustomization documentation](https://gohugo.io/themes/customizing/), to best learn how to customize the
+Read [Hugo's theme customization documentation](https://gohugo.io/themes/customizing/), to best learn how to customize the
 code and appearence of your site.
  
 
