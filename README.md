@@ -13,6 +13,8 @@ Theme templates can also be overidden. If this is the case, you should
 be sure to "eject" the `portfolio-hugo-theme` from its **always
 green** update system. (TODO: explain how).
 
+In the `config.toml` file you can set the title of your website (and more).
+
 ## Installation
 
 TODO: what is the process for a user without a Github and Netlify
@@ -48,10 +50,4 @@ You can then install the project by cloning it:
 This command also clones the git submodules, namely the
  `portfolio-hugo-theme`. Its location is
  `/portfolio-hugo-starter/themes`.
-
-
-## Note for later:
-
-> the following command will effectively set a website’s title on
-Unix-like systems: `$ env HUGO_TITLE="Some Title" hugo`
 

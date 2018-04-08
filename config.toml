@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-Title = "Portfolio starter"
+title = "Portfolio starter"
 theme = "portfolio-hugo-theme"
