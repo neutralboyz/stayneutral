@@ -16,17 +16,10 @@ if you already have one).
 Netlify to host and deploy every changes made to your content. [Create a new
 site](https://app.netlify.com/start/deploy?repository=https://github.com/internet4000/portfolio-hugo-starter).
 
-
 > The steps on the link above will lead you through setting up Netlify
 > as the host of your new website. Each time you will edit the content
 > of your site, Netlify will use the newest version of it to generate
 > the latest version of your site.
-
-In the `config.toml` file you can set the title of your website (and
-more).
-
-TODO: work on this customization, so the `site.Title` can be edited
-from the `netlify-cms` interface (or what makes best sense).
 
 ## Overview
 
