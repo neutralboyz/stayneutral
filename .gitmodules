@@ -1,4 +1,4 @@
 [submodule "themes/portfolio-hugo-theme"]
 path = themes/portfolio-hugo-theme
-url = git@github.com:internet4000/portfolio-hugo-theme
+url = https://github.com/internet4000/portfolio-hugo-theme.git
 branch = master
