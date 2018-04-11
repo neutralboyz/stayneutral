@@ -1,8 +1,7 @@
 ---
-title: "Project C - pd"
-date: 2018-03-30T17:24:44+02:00
-slug: "c"
-image: https://78.media.tumblr.com/333359914461c58116835a6b9caffbb6/tumblr_p00pkyusIX1twkjb3o1_1280.jpg
+title: Project C - pd
+thumbnail: /medias/uploads/deepinscreenshot_select-area_20180210170021.png
 ---
-
 Go templates are lightweight but extensible. Go itself supplies built-in functions, including comparison operators and other basic tools. These are listed in the Go template documentation. Hugo has added additional functions to the basic template logic.
+
+![Alt text](https://78.media.tumblr.com/f3a8c6312ae306aac5e00cf379035bde/tumblr_os68sfBVdc1twkjb3o1_1280.jpg)
