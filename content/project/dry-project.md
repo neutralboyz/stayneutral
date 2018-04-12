@@ -1,6 +1,6 @@
 ---
-title: Dry project
-thumbnail: /medias/uploads/12625478.jpg
+title: Test project
+image: /medias/uploads/12625478.jpg
 ---
 some text here.
 
