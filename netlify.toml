@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo"
+command = "git submodule update --init --remote; hugo"
 
 [build.environment]
 HUGO_VERSION = "0.38.1"
