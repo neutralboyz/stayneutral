@@ -9,3 +9,7 @@ code too
 ```
 
 What about an image inside content?
+
+
+
+![](/medias/uploads/untitled-image-10-.jpg)
