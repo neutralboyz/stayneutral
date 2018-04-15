@@ -1,7 +1,6 @@
 ---
-title: "Contact Page"
-date: 2018-01-30T17:24:39+02:00
-slug: contact
+title: Contact Page
+menu: main
 ---
 
 Dialektik der Aufklärung (La Dialectique de la Raison) de Theodor
