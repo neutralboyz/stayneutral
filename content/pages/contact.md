@@ -1,6 +1,6 @@
 ---
 title: Contact Page
-menu: main
+menu: ''
 ---
 
 Dialektik der Aufklärung (La Dialectique de la Raison) de Theodor
