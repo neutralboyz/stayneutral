@@ -1,6 +1,7 @@
 ---
 title: Draft page test
-draft: true
+draft: false
 menu: main
 ---
-visible by default
+1. visible by default
+2. now undrafted
