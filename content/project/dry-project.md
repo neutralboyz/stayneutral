@@ -1,6 +1,6 @@
 ---
 title: Test project
-image: /medias/uploads/12625478.jpg
+thumbnail: /medias/uploads/tumblr_ofk4cok4rq1uy5t4ko1_1280.jpg
 ---
 some text here.
 
@@ -9,5 +9,3 @@ code too
 ```
 
 What about an image inside content?
-
-![r4mix demo](/medias/uploads/deepinscreenshot_select-area_20180210170021.png)
