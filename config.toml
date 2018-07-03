@@ -1,1 +1,5 @@
-title = "Portfolio starter (example)"
+baseURL = "/"
+languageCode = "en-us"
+title = "Portfolio starter (Hugo)"
+theme = "portfolio-hugo-theme"
+enableGitInfo = "true"
