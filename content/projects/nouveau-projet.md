@@ -1,4 +1,4 @@
 ---
-title: Nouveau projet
+title: Nouveau project - no feature image & no body
 ---
 
