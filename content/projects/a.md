@@ -8,7 +8,7 @@ Welcome to your **new portfolio**!
 
 You are reading the content of an example project.
 
-**To learn how edit this site**, go to the [page 2](/page-2).
+**To learn how edit this site**, go to the [page 2](/projects/page-2).
 
 If you have any question, jump in the [community support chat](https://riot.im/app/#/room/#support-themes:matrix.org) on which it will eventualy be solved.
 
