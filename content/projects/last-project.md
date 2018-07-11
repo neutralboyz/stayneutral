@@ -1,5 +1,6 @@
 ---
 title: Zone du dehors
+slug: last-project
 image: /medias/uploads/code-of-practice.jpg
 ---
 Go templates are lightweight but extensible. Go itself supplies built-in functions, including comparison operators and other basic tools. These are listed in the Go template documentation. Hugo has added additional functions to the basic template logic.
