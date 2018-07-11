@@ -1,4 +1,6 @@
 ---
-title: This is a new page
+title: 'This is an other page, that does not appear in the menu'
 ---
-test
+And some test content!
+
+Looking for help? [support.internet4000.com](https://support.internet4000.com/)!
