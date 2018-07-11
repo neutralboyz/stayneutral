@@ -22,7 +22,7 @@ Of course it is also possible to add more images to a project. Like the followin
 
 Same goes for any type of iframe, that can as well be inserted.
 
-## <iframe>
+## `<iframe>` (HTML)
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fterahertzradiation%2Fbergamote-terahertz-radiation%2F" frameborder="0" ></iframe>
 
@@ -38,7 +38,13 @@ In the same fashion, **videos** can easily be embedded inside any page.
 
 You can also write any type of content in HTML and CSS.
 
-<p style="color: purple;">Such as this.</p>
+<p>
+ <span style="color: purple;">Such as this</span>,
+ <span style="color: green;">this</span>,
+ <span style="font-size: 3rem;">or that</span>.
+</p>
+
+You can use any markup allowed by HTML or CSS.
 
 ### Widget, Instagram example
 
