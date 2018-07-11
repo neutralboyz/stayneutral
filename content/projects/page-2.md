@@ -18,17 +18,34 @@ Of course it is also possible to add more images to a project. Like the followin
 
 ![Some alternative text](/medias/uploads/tumblr_n5fhl6iy8u1twkjb3o1_1280.jpg)
 
+## Images
+
+Same goes for any type of iframe, that can as well be inserted.
+
+## <iframe>
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fterahertzradiation%2Fbergamote-terahertz-radiation%2F" frameborder="0" ></iframe>
+
+## Videos
 
 In the same fashion, **videos** can easily be embedded inside any page.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/C_vy0TY8m98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## HTML5 & Widgets
 
-Same goes for any type of iframe, that can as well be inserted.
+### HTML5 and CSS
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fterahertzradiation%2Fbergamote-terahertz-radiation%2F" frameborder="0" ></iframe>
+You can also write any type of content in HTML and CSS.
 
+<p style="color: purple;">Such as this.</p>
 
-Do you want to integrate an [instagram feed](https://instagram.internet4000.com/)? It's pretty easy!
+### Widget, Instagram example
+
+Do you want to integrate a feed of your instagram images?
+
+It's pretty easy! You can do this in any project or page of your site.
+
+[Follow these instructions](https://instagram.internet4000.com/).
 
 <i4k-image-feed instagram-access-token="7110945664.db1fb5e.d769baf2fbb4415295e5e537ec8a7e41"></i4k-image-feed><script src="https://cdn.jsdelivr.net/npm/i4k-image-feed" async=""></script>
