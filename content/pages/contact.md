@@ -2,38 +2,32 @@
 title: About
 menu: main
 ---
+This page is the about page of the [portfolio.internet4000.com](https://portfolio.internet4000.com).
 
-Dialektik der Aufklärung (La Dialectique de la Raison) de Theodor
-W. Adorno et Max Horkheimer est l'un des principaux témoignages de la
-philosophie du XXe siècle et l'ouvrage le plus représentatif de la
-Théorie critique engagée par l’École de Francfort.
+# What is it?
 
-Le livre éclaire le processus logique et historique par lequel les
-Lumières (en allemand : Aufklärung) sont conduites à se transformer en
-leur contraire, le mythe ou la barbarie, dont elles prétendent
-s’émanciper, au lieu d’œuvrer pour une société plus humaine. Les
-auteurs cherchent en même temps les conditions de possibilité pour le
-sauvetage du projet des Lumières dans un contexte où la civilisation
-dans son ensemble est menacée à l’échelle planétaire.
-
-Le livre est d'abord publié de façon confidentielle, à New York, en
-1944, sous le titre allemand Philosophische Fragmente (Fragments
-philosophiques), puis de façon officielle à Amsterdam, en 1947, sous
-le titre définitif de Dialektik der Aufklärung, qui signifie
-littéralement : Dialectique des Lumières ou, plus exactement encore,
-"Dialectique de l'illumination". La première traduction française est
-parue en 1974 sous le titre La Dialectique de la Raison.
+The portfolio is the easiest way to get started with a portfolio for your project.
 
 ![One alt text on this
 image](https://78.media.tumblr.com/5b3d7b6e15ea3eba2ca822a315ee0510/tumblr_os68y2V3AL1twkjb3o1_1280.jpg)
 
-Le sous-titre est Fragments philosophiques. Cela aurait pu constituer
-le titre dans la mesure où la forme fragmentaire est pensée en rapport
-avec le contenu du livre ou comme constituant son contenu même. Or, le
-contenu est la critique philosophique de la totalité et du
-totalitarisme, le sauvetage de la raison par l'esprit de l'art
-moderne, et le fragment est la forme de l'art moderne par opposition à
-celle de la philosophie systématique ou des produits de l'industrie
-culturelle.
+# Why use this portfolio?
 
+There are actually many reasons. So here is why you should consider using it has your new portfolio system.
 
+* **You are in control**, of the content, the hosting, the domain name. And it is easy to setup and manage.
+* Tt is **free software**.  All the code and softwares used to make this portfolio live, is accessible for free, and will always be. So you don't have to worry about a private company locking your in their system.
+* The portfolio comes with extensible documentation, written and improved over time by the community arround it.
+* You can **manage the content of your site** with a simple interface.
+* Invite other users to collaborate on your site, edit the content.
+* The is a history of every changes made to the content of your site, so if you make a mistake it is easy to roll back to a previous version.
+* You can **enhance the portfolio easily**, with modern web technologies, see the following sections for a full list of the used softwares, and how to change your site. Write new code, add modules, add a shop, it is fully extensive. Do it yourself, or give all the code to a friendly developer, they'll easily know what to do.
+* The portfolio has a **clean responsive design**, so your content is what really matters, and the site does not get in its way.
+* You can **access the portfolio from any device**, mobile and desktop, tablet, smart TVs and watches.
+* There is a community arround the portfolio to help you use it, and never stay without unresolved questions. There is always someone to help you, with all aspect.
+
+Do you need more reasons, or assistance?
+
+Come [talk with the community](https://riot.im/app/#/room/#support-themes:matrix.org)!
+
+Thanks for reading, and don't forget to share your portfolio so new artistic expressions and projects get to the world!
