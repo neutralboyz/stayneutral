@@ -3,35 +3,41 @@ title: Create and edit content - the admin
 slug: create-edit-content-admin
 image: /medias/uploads/tumblr_nmi2y50vtq1twkjb3o1_1280.jpg
 ---
-* The content manager is the hidden part of the website that allows you to create new content, or edit the existing one.
+The **content manager**, or admin panel, is the hidden part of the website that **allows you to create new content, or edit the existing one**.
 
-To learn how to make this happen, or are unsure of what all this means, continue reading this page (and remember that you can find assistance at any time on the [community support chat](https://riot.im/app/#/room/#support-themes:matrix.org)).
+To learn how to make this happen, or if you are unsure of what this means, continue reading this page.
 
-Let's start
+Remember that you can always find assistance at any time on the [community support chat](https://riot.im/app/#/room/#support-themes:matrix.org).
+
+Let's start!
 
 # Login
 
-If you now want to log into your site, you have done two important parts in the setup of your site:
+If you now want to log into your site, and edit manage its content.
+
+To continue further, you must already have done some important steps in the setup of your site:
 
 1. you did [create a new portfolio](https://app.netlify.com/start/deploy?repository=https://github.com/internet4000/portfolio-hugo-starter).
-2. you have created a Github account, which you use to store the whole content and code of your new portfolio site (for reference, the original code and demo content in hosted on this [Github repository](https://github.com/internet4000/portfolio-hugo-starter)).
-3. you have created a [Netlify account](https://www.netlify.com/), that is used to host your site, setup custom domains, and who can log in.
+2. you have created a Github account. It was required for step 1. You use it to store the whole content and code of your new portfolio site (for reference, the original code and demo content in hosted on this [Github repository](https://github.com/internet4000/portfolio-hugo-starter)).
+3. you have created a [Netlify account](https://www.netlify.com/). It was also required for step 1. It is used to host your site, setup custom domains, who can log in to edit content. Netlify is realy good, as it will react each time you change the content (or code) of your site, and will automatically put a new version online (that is called: "deploy" a new version of your site).
 
-If you have already completed these steps, you can move on to the next section, to learn how to login your website, and manage your content.
+**If you have already completed these steps, you can move on to the next section**, to learn how to login your website, and manage your content.
 
-## Go to the /admin page
+## Go to the /admin page, to login
 
 To use the content manager of your site, go to its [/admin page](/admin), and log in with your credentials. If you don't know how to login, or don't have yet any credentials, learn how to create your first user account in the next section: **activate authentication.**.
 
 Otherwise if you are now logged in, start editing the content of your site; start by:
+
 * add a new `project` content type to your site, edit and save it. Visit your website home page and see if looks like you want.
 * go back to your admin panel and edit existing content, you can delete exisitng entries and start putting your personal content
 * change the `title` of your site, for this go to the `config` content type and edit the `config.toml` file.
 
 
+
 # Activate authentication
 
-> Note that you *only have to do the following steps once*, before being ablet to login into your CMS (the admin panel). If you can already login, jump to the `content` section of this document.
+> Note that you _only have to do the following steps once_, before being ablet to login into your CMS (the admin panel). If you can already login, jump to the `content` section of this document.
 
 To be able to securely login to your administrative panel, you must now complete the following actions:
 
