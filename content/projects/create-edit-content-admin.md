@@ -11,6 +11,8 @@ Remember that you can always find assistance at any time on the [community suppo
 
 Let's start!
 
+
+
 # Login
 
 If you now want to log into your site, and edit manage its content.
@@ -22,6 +24,8 @@ To continue further, you must already have done some important steps in the setu
 3. you have created a [Netlify account](https://www.netlify.com/). It was also required for step 1. It is used to host your site, setup custom domains, who can log in to edit content. Netlify is realy good, as it will react each time you change the content (or code) of your site, and will automatically put a new version online (that is called: "deploy" a new version of your site).
 
 **If you have already completed these steps, you can move on to the next section**, to learn how to login your website, and manage your content.
+
+
 
 ## Go to the /admin page, to login
 
@@ -37,15 +41,37 @@ Otherwise if you are now logged in, start editing the content of your site; star
 
 # Activate authentication
 
-> Note that you _only have to do the following steps once_, before being ablet to login into your CMS (the admin panel). If you can already login, jump to the `content` section of this document.
-
 To be able to securely login to your administrative panel, you must now complete the following actions:
 
-1. Go to your website's project on [Netlify.com](https://netlify.com). Go on the **Identity** page, and click `Enable identity`.
+> Note: you 
+>
+> _only have to do the following steps once_
+>
+> , before being ablet to login into your CMS (the admin panel). If you can already login, jump to the 
+>
+> `content`
+>
+>  section of this document.
+
+1. > Go to your website's project on 
+   >
+   > [Netlify.com](https://netlify.com)
+   >
+   > . Go on the 
+   >
+   > **Identity**
+   >
+   >  page, and click 
+   >
+   > `Enable identity`
+   >
+   > .
 2. Now that identity is enabled, click on `Settings and usage` to go to the identity service settings page, and scroll to the section `Git Gateway`. Finally click on `Enable Git Gateway`
 3. Go to your website's [/admin page](/admin), and log in using your Github account.
 
-Alternatively, through Netlify's interface, you can also invite new users to collaborate on your site
+Alternatively, through Netlify's interface, you can also invite new users to collaborate on your site.
+
+
 
 # Content
 
@@ -55,6 +81,8 @@ On the content management are available 3 categories of content (content types):
 * **pages** are an other content type, like a `about` or `contact` page. You can have much as you want, and select if they should appear in your site menu or not.
 * **configs** stands for configuration. Edit the files under the `configs` content type to find more ways to customize you site, for example, how to change your site title!
 * **documentations**. This is a special type of content for your site, where is stored all there is to know about how to edit and manage your site. It is built into your site, so every time there is something you don't know, go there to get answers. 
+
+
 
 # How to continue further
 
