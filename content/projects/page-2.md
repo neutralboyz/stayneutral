@@ -8,7 +8,7 @@ This is an **example project page**, just like the README page/project.
 
 On each project you can write any type of content you like, with standard **text** _formating features_.
 
-When you are done reading, move on to the third page, to learn [how to create and edit content](create-edit-content).
+When you are done reading, move on to the third page, to learn [how to create and edit content](/create-edit-content).
 
 
 
