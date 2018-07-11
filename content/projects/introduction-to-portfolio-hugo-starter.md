@@ -14,4 +14,4 @@ If you have any question, jump in the [community support chat](https://riot.im/a
 
 Have fun!
 
-PS: if you don't have already, you can [create a site like this one](https://portfolio.internet4000.com), all free.
+PS: if you don't have already, you can [create a site like this one](https://app.netlify.com/start/deploy?repository=https://github.com/internet4000/portfolio-hugo-starter), all free.
