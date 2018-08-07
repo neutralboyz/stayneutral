@@ -1,6 +1,6 @@
 ---
-title: Create and edit content - the admin
-slug: create-edit-content-admin
+title: Get started
+slug: ''
 image: /medias/uploads/tumblr_nmi2y50vtq1twkjb3o1_1280.jpg
 ---
 The **content manager**, or admin panel, is the hidden part of the website that **allows you to create new content, or edit the existing one**.
