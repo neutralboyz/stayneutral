@@ -40,8 +40,11 @@ To be able to securely login to your administrative panel, you must now complete
 > Note: **you only have to do the following steps once**_,_ before being ablet to login into your CMS (the admin panel). If you can already login, jump to the `content`section of this document.
 
 1. Go to your website’s project on [netlify.com](https://netlify.com). Go on the *Identity* page, and click `Enable identity`.
-2. Now that identity is enabled, click on `Settings and usage` to go to the identity service settings page, and scroll to the section `Git Gateway`. Finally click on `Enable Git Gateway`. You are all setup for login in.
-3. Go to your website's [/admin page](/admin), and log in using your Github account.
+2. Now that identity is enabled, click on `Settings and usage` to go to the identity service settings page, and scroll to the section `Git Gateway`. Finally click on `Enable Git Gateway`.
+3. Scroll back up and add "GitHub" under `Registration > External providers`.
+
+You are all setup for login in.  
+Go to your website's [/admin page](/admin), and log in using your GitHub account.
 
 Alternatively, through Netlify's interface, you can also invite new users to collaborate on your site. It is also in the `Identity` panel of your site on netlify. You can add a user by its email adress, who will receive a mail to activate their account and choose their account password.
 
