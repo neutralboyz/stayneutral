@@ -6,7 +6,7 @@ image: >-
 ---
 **Welcome!**
 
-To learn how to create your very own site, go to the [get started](/projects/get-started) project.
+To learn how to create your very own site, go to the [get started project.](/projects/get-started)
 
 To learn how write content, manage images etc., go to the [example project.](/projects/example-project)
 
